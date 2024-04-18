@@ -12,9 +12,4 @@ public class ProductoEntity {
     private String name;
     private Double price;
 
-    public void orElseThrow() throws RuntimeException{
-        
-    }
-
-
 }

@@ -35,3 +35,5 @@ build/
 .fake
 
 .env
+
+src/main/resources/application.properties -text
