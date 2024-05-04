@@ -1,16 +1,6 @@
-# Mi Primer Backend para Aplicación Personal
+# Mi Primer practica Backend para Aplicación Personal
 
-Este es el backend de mi primera aplicación personal, desarrollada con Java y Spring Boot. El objetivo de esta aplicación es conectar entrenadores con clientes interesados en recibir entrenamiento personalizado.
 
-## Funcionalidades
-
-- **Registro e inicio de sesión:** Los usuarios pueden registrarse como entrenadores o clientes, y luego iniciar sesión para acceder a la aplicación.
-
-- **Perfil de usuario:** Cada usuario tiene un perfil donde puede gestionar su información personal y profesional, así como su disponibilidad y tarifas.
-
-- **Búsqueda y filtrado:** Los clientes pueden buscar entrenadores según sus preferencias, como ubicación, especialidad o precio.
-
-- **Solicitud de entrenamiento:** Los clientes pueden enviar solicitudes de entrenamiento a los entrenadores, quienes pueden aceptarlas o rechazarlas.
 
 ## Tecnologías Utilizadas
 
@@ -19,6 +9,7 @@ Este es el backend de mi primera aplicación personal, desarrollada con Java y S
 - MySQL (base de datos)
 - Hibernate (ORM)
 - Maven (gestor de dependencias)
+- Docker
 
 ## Instalación y Uso
 
